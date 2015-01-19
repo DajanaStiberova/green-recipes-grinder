@@ -1,0 +1,5 @@
+#!/bin/sh
+GRINDERPATH=~/Devtools/grinder-3.11
+GRINDERPROPERTIES=grinder.properties
+CLASSPATH=$GRINDERPATH/lib/grinder.jar:$CLASSPATH
+export CLASSPATH GRINDERPROPERTIES

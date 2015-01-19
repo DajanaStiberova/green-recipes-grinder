@@ -1,0 +1,462 @@
+2015-01-18 21:11:28,244 INFO  dajanka-U310-3 : The Grinder version 3.11
+2015-01-18 21:11:28,252 INFO  dajanka-U310-3 : Java(TM) SE Runtime Environment 1.7.0_72-b14: Java HotSpot(TM) 64-Bit Server VM (24.72-b04, mixed mode) on Linux amd64 3.13.0-39-generic
+2015-01-18 21:11:28,256 INFO  dajanka-U310-3 : time zone is CET (+0100)
+2015-01-18 21:11:28,461 INFO  dajanka-U310-3 : worker process 3 of agent number 0
+2015-01-18 21:11:28,580 INFO  dajanka-U310-3 : instrumentation agents: byte code transforming instrumenter for Jython 2.5; byte code transforming instrumenter for Java
+2015-01-18 21:11:30,758 INFO  dajanka-U310-3 : registered plug-in net.grinder.plugin.http.HTTPPlugin
+2015-01-18 21:11:32,052 INFO  dajanka-U310-3 : running "grinder.clj" using Clojure 1.4.0
+2015-01-18 21:11:32,077 INFO  dajanka-U310-3 thread-0: starting, will do 30 runs
+2015-01-18 21:11:32,077 INFO  dajanka-U310-3 : start time is 1421611892077 ms since Epoch
+2015-01-18 21:11:47,313 INFO  dajanka-U310-3 thread-0 [ run-0, test-101 ]: http://green-recipes.com/ -> 200 OK, 7239 bytes
+2015-01-18 21:11:47,326 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 153 ms
+2015-01-18 21:11:47,618 INFO  dajanka-U310-3 thread-0 [ run-0, test-102 ]: http://green-recipes.com/style.css -> 200 OK, 26408 bytes
+2015-01-18 21:11:47,827 INFO  dajanka-U310-3 thread-0 [ run-0, test-103 ]: http://green-recipes.com/out/goog/base.js -> 200 OK, 61790 bytes
+2015-01-18 21:11:47,896 INFO  dajanka-U310-3 thread-0 [ run-0, test-104 ]: http://green-recipes.com/script/zelenerecepty_app.js -> 200 OK, 1404 bytes
+2015-01-18 21:11:47,964 INFO  dajanka-U310-3 thread-0 [ run-0, test-105 ]: http://green-recipes.com/images/facebook-link.png -> 200 OK, 723 bytes
+2015-01-18 21:11:47,987 INFO  dajanka-U310-3 : received a start message
+2015-01-18 21:11:48,036 INFO  dajanka-U310-3 thread-0 [ run-0, test-106 ]: http://green-recipes.com/images/sk-logo-mini.png -> 200 OK, 7786 bytes
+2015-01-18 21:11:48,037 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 45 ms
+2015-01-18 21:11:48,205 INFO  dajanka-U310-3 thread-0 [ run-0, test-107 ]: http://green-recipes.com/images/thumbnails/guacamole.jpg -> 200 OK, 32946 bytes
+2015-01-18 21:11:48,306 INFO  dajanka-U310-3 thread-0 [ run-0, test-108 ]: http://green-recipes.com/images/thumbnails/brokolicovy-salat.jpg -> 200 OK, 29428 bytes
+2015-01-18 21:11:48,401 INFO  dajanka-U310-3 thread-0 [ run-0, test-109 ]: http://green-recipes.com/images/thumbnails/sunflower-bread.jpg -> 200 OK, 23985 bytes
+2015-01-18 21:11:48,491 INFO  dajanka-U310-3 thread-0 [ run-0, test-110 ]: http://green-recipes.com/images/thumbnails/choco-mint.jpg -> 200 OK, 15732 bytes
+2015-01-18 21:11:48,492 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 18 ms
+2015-01-18 21:11:48,577 INFO  dajanka-U310-3 thread-0 [ run-0, test-111 ]: http://green-recipes.com/images/thumbnails/horcica.jpg -> 304 Not Modified, 0 bytes
+2015-01-18 21:11:48,707 INFO  dajanka-U310-3 thread-0 [ run-0, test-112 ]: http://green-recipes.com/images/thumbnails/pizza.jpg -> 200 OK, 38453 bytes
+2015-01-18 21:11:48,811 INFO  dajanka-U310-3 thread-0 [ run-0, test-113 ]: http://green-recipes.com/out/goog/deps.js -> 200 OK, 8528 bytes
+2015-01-18 21:11:48,812 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 71 ms
+2015-01-18 21:11:48,987 INFO  dajanka-U310-3 thread-0 [ run-0, test-114 ]: http://green-recipes.com/images/thumbnails/carob-cookies.jpg -> 200 OK, 31909 bytes
+2015-01-18 21:11:49,106 INFO  dajanka-U310-3 thread-0 [ run-0, test-115 ]: http://green-recipes.com/images/thumbnails/basic-cashew-cheese.jpg -> 200 OK, 27620 bytes
+2015-01-18 21:11:49,107 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 55 ms
+2015-01-18 21:11:49,251 INFO  dajanka-U310-3 thread-0 [ run-0, test-116 ]: http://green-recipes.com/images/thumbnails/tahini-dresing.jpg -> 200 OK, 17244 bytes
+2015-01-18 21:11:49,363 INFO  dajanka-U310-3 thread-0 [ run-0, test-117 ]: http://green-recipes.com/images/thumbnails/wrap.jpg -> 200 OK, 32767 bytes
+2015-01-18 21:11:49,432 INFO  dajanka-U310-3 thread-0 [ run-0, test-118 ]: http://green-recipes.com/out/goog/debug/error.js -> 200 OK, 1474 bytes
+2015-01-18 21:11:49,510 INFO  dajanka-U310-3 thread-0 [ run-0, test-119 ]: http://green-recipes.com/out/goog/dom/nodetype.js -> 200 OK, 1449 bytes
+2015-01-18 21:11:49,688 INFO  dajanka-U310-3 thread-0 [ run-0, test-120 ]: http://green-recipes.com/out/goog/string/string.js -> 200 OK, 47726 bytes
+2015-01-18 21:11:49,767 INFO  dajanka-U310-3 thread-0 [ run-0, test-121 ]: http://green-recipes.com/out/goog/asserts/asserts.js -> 200 OK, 12764 bytes
+2015-01-18 21:11:49,946 INFO  dajanka-U310-3 thread-0 [ run-0, test-122 ]: http://green-recipes.com/out/goog/array/array.js -> 200 OK, 56440 bytes
+2015-01-18 21:11:50,013 INFO  dajanka-U310-3 thread-0 [ run-0, test-123 ]: http://green-recipes.com/out/goog/labs/useragent/util.js -> 200 OK, 4603 bytes
+2015-01-18 21:11:50,085 INFO  dajanka-U310-3 thread-0 [ run-0, test-124 ]: http://green-recipes.com/out/goog/labs/useragent/browser.js -> 200 OK, 8535 bytes
+2015-01-18 21:11:50,086 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 28 ms
+2015-01-18 21:11:50,185 INFO  dajanka-U310-3 thread-0 [ run-0, test-125 ]: http://green-recipes.com/out/goog/labs/useragent/engine.js -> 200 OK, 3934 bytes
+2015-01-18 21:11:50,186 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 29 ms
+2015-01-18 21:11:50,297 INFO  dajanka-U310-3 thread-0 [ run-0, test-126 ]: http://green-recipes.com/out/goog/useragent/useragent.js -> 200 OK, 15676 bytes
+2015-01-18 21:11:50,362 INFO  dajanka-U310-3 thread-0 [ run-0, test-127 ]: http://green-recipes.com/out/goog/dom/browserfeature.js -> 200 OK, 2415 bytes
+2015-01-18 21:11:50,363 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 12 ms
+2015-01-18 21:11:50,441 INFO  dajanka-U310-3 thread-0 [ run-0, test-128 ]: http://green-recipes.com/out/goog/dom/tagname.js -> 200 OK, 3230 bytes
+2015-01-18 21:11:50,514 INFO  dajanka-U310-3 thread-0 [ run-0, test-129 ]: http://green-recipes.com/out/goog/functions/functions.js -> 200 OK, 8863 bytes
+2015-01-18 21:11:50,515 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 18 ms
+2015-01-18 21:11:50,615 INFO  dajanka-U310-3 thread-0 [ run-0, test-130 ]: http://green-recipes.com/out/goog/math/math.js -> 200 OK, 14311 bytes
+2015-01-18 21:11:50,686 INFO  dajanka-U310-3 thread-0 [ run-0, test-131 ]: http://green-recipes.com/out/goog/math/coordinate.js -> 200 OK, 7894 bytes
+2015-01-18 21:11:50,756 INFO  dajanka-U310-3 thread-0 [ run-0, test-132 ]: http://green-recipes.com/out/goog/math/size.js -> 200 OK, 5295 bytes
+2015-01-18 21:11:50,847 INFO  dajanka-U310-3 thread-0 [ run-0, test-133 ]: http://green-recipes.com/out/goog/object/object.js -> 200 OK, 18421 bytes
+2015-01-18 21:11:50,848 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 17 ms
+2015-01-18 21:11:51,185 INFO  dajanka-U310-3 thread-0 [ run-0, test-134 ]: http://green-recipes.com/out/goog/dom/dom.js -> 200 OK, 97336 bytes
+2015-01-18 21:11:53,072 INFO  dajanka-U310-3 thread-0 [ run-0, test-135 ]: http://green-recipes.com/out/cljs/core.js -> 200 OK, 808183 bytes
+2015-01-18 21:11:53,142 INFO  dajanka-U310-3 thread-0 [ run-0, test-136 ]: http://green-recipes.com/out/goog/string/stringbuffer.js -> 200 OK, 2692 bytes
+2015-01-18 21:11:53,143 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 12 ms
+2015-01-18 21:11:53,278 INFO  dajanka-U310-3 thread-0 [ run-0, test-137 ]: http://green-recipes.com/out/goog/iter/iter.js -> 200 OK, 44400 bytes
+2015-01-18 21:11:53,365 INFO  dajanka-U310-3 thread-0 [ run-0, test-138 ]: http://green-recipes.com/out/goog/structs/map.js -> 200 OK, 12837 bytes
+2015-01-18 21:11:53,366 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 38 ms
+2015-01-18 21:11:53,530 INFO  dajanka-U310-3 thread-0 [ run-0, test-139 ]: http://green-recipes.com/out/goog/dom/forms.js -> 200 OK, 11811 bytes
+2015-01-18 21:11:53,531 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 21 ms
+2015-01-18 21:11:53,641 INFO  dajanka-U310-3 thread-0 [ run-0, test-140 ]: http://green-recipes.com/out/goog/dom/classes.js -> 200 OK, 8403 bytes
+2015-01-18 21:11:53,735 INFO  dajanka-U310-3 thread-0 [ run-0, test-141 ]: http://green-recipes.com/out/goog/debug/entrypointregistry.js -> 200 OK, 5492 bytes
+2015-01-18 21:11:53,805 INFO  dajanka-U310-3 thread-0 [ run-0, test-142 ]: http://green-recipes.com/out/goog/events/browserfeature.js -> 200 OK, 2799 bytes
+2015-01-18 21:11:53,871 INFO  dajanka-U310-3 thread-0 [ run-0, test-143 ]: http://green-recipes.com/out/goog/disposable/idisposable.js -> 200 OK, 1445 bytes
+2015-01-18 21:11:53,872 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 18 ms
+2015-01-18 21:11:53,965 INFO  dajanka-U310-3 thread-0 [ run-0, test-144 ]: http://green-recipes.com/out/goog/disposable/disposable.js -> 200 OK, 9007 bytes
+2015-01-18 21:11:54,031 INFO  dajanka-U310-3 thread-0 [ run-0, test-145 ]: http://green-recipes.com/out/goog/events/eventid.js -> 200 OK, 1348 bytes
+2015-01-18 21:11:54,100 INFO  dajanka-U310-3 thread-0 [ run-0, test-146 ]: http://green-recipes.com/out/goog/events/event.js -> 200 OK, 4625 bytes
+2015-01-18 21:11:54,171 INFO  dajanka-U310-3 thread-0 [ run-0, test-147 ]: http://green-recipes.com/out/goog/events/eventtype.js -> 200 OK, 6937 bytes
+2015-01-18 21:11:54,236 INFO  dajanka-U310-3 thread-0 [ run-0, test-148 ]: http://green-recipes.com/out/goog/reflect/reflect.js -> 200 OK, 2202 bytes
+2015-01-18 21:11:54,311 INFO  dajanka-U310-3 thread-0 [ run-0, test-149 ]: http://green-recipes.com/out/goog/events/browserevent.js -> 200 OK, 11335 bytes
+2015-01-18 21:11:54,312 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 27 ms
+2015-01-18 21:11:54,414 INFO  dajanka-U310-3 thread-0 [ run-0, test-150 ]: http://green-recipes.com/out/goog/events/listenable.js -> 200 OK, 10789 bytes
+2015-01-18 21:11:54,480 INFO  dajanka-U310-3 thread-0 [ run-0, test-151 ]: http://green-recipes.com/out/goog/events/listener.js -> 200 OK, 3547 bytes
+2015-01-18 21:11:54,558 INFO  dajanka-U310-3 thread-0 [ run-0, test-152 ]: http://green-recipes.com/out/goog/events/listenermap.js -> 200 OK, 9725 bytes
+2015-01-18 21:11:54,769 INFO  dajanka-U310-3 thread-0 [ run-0, test-153 ]: http://green-recipes.com/out/goog/events/events.js -> 200 OK, 33596 bytes
+2015-01-18 21:11:54,773 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 21 ms
+2015-01-18 21:11:54,858 INFO  dajanka-U310-3 thread-0 [ run-0, test-154 ]: http://green-recipes.com/out/domina/support.js -> 200 OK, 764 bytes
+2015-01-18 21:11:54,924 INFO  dajanka-U310-3 thread-0 [ run-0, test-155 ]: http://green-recipes.com/out/goog/dom/vendor.js -> 200 OK, 2767 bytes
+2015-01-18 21:11:54,926 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 25 ms
+2015-01-18 21:11:55,028 INFO  dajanka-U310-3 thread-0 [ run-0, test-156 ]: http://green-recipes.com/out/goog/math/box.js -> 200 OK, 10890 bytes
+2015-01-18 21:11:55,108 INFO  dajanka-U310-3 thread-0 [ run-0, test-157 ]: http://green-recipes.com/out/goog/math/rect.js -> 200 OK, 13882 bytes
+2015-01-18 21:11:55,294 INFO  dajanka-U310-3 thread-0 [ run-0, test-158 ]: http://green-recipes.com/out/goog/style/style.js -> 200 OK, 77561 bytes
+2015-01-18 21:11:55,295 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 35 ms
+2015-01-18 21:11:55,402 INFO  dajanka-U310-3 thread-0 [ run-0, test-159 ]: http://green-recipes.com/out/clojure/string.js -> 200 OK, 7885 bytes
+2015-01-18 21:11:55,474 INFO  dajanka-U310-3 thread-0 [ run-0, test-160 ]: http://green-recipes.com/out/goog/dom/xml.js -> 200 OK, 6899 bytes
+2015-01-18 21:11:55,626 INFO  dajanka-U310-3 thread-0 [ run-0, test-161 ]: http://green-recipes.com/out/domina.js -> 200 OK, 57607 bytes
+2015-01-18 21:11:55,628 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 30 ms
+2015-01-18 21:11:55,817 INFO  dajanka-U310-3 thread-0 [ run-0, test-162 ]: http://green-recipes.com/out/goog/dojo/dom/query.js -> 200 OK, 53356 bytes
+2015-01-18 21:11:55,884 INFO  dajanka-U310-3 thread-0 [ run-0, test-163 ]: http://green-recipes.com/out/domina/css.js -> 200 OK, 3006 bytes
+2015-01-18 21:11:55,885 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 40 ms
+2015-01-18 21:11:56,021 INFO  dajanka-U310-3 thread-0 [ run-0, test-164 ]: http://green-recipes.com/out/domina/events.js -> 200 OK, 26839 bytes
+2015-01-18 21:11:56,089 INFO  dajanka-U310-3 thread-0 [ run-0, test-165 ]: http://green-recipes.com/out/zelene_recepty/smoothscroll.js -> 200 OK, 2628 bytes
+2015-01-18 21:11:56,168 INFO  dajanka-U310-3 thread-0 [ run-0, test-166 ]: http://green-recipes.com/out/goog/events/eventtarget.js -> 200 OK, 13142 bytes
+2015-01-18 21:11:56,247 INFO  dajanka-U310-3 thread-0 [ run-0, test-167 ]: http://green-recipes.com/out/goog/timer/timer.js -> 200 OK, 8197 bytes
+2015-01-18 21:11:56,325 INFO  dajanka-U310-3 thread-0 [ run-0, test-168 ]: http://green-recipes.com/out/goog/json/json.js -> 200 OK, 11619 bytes
+2015-01-18 21:11:56,400 INFO  dajanka-U310-3 thread-0 [ run-0, test-169 ]: http://green-recipes.com/out/goog/structs/structs.js -> 200 OK, 11417 bytes
+2015-01-18 21:11:56,465 INFO  dajanka-U310-3 thread-0 [ run-0, test-170 ]: http://green-recipes.com/out/goog/structs/collection.js -> 200 OK, 1412 bytes
+2015-01-18 21:11:56,466 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 18 ms
+2015-01-18 21:11:56,564 INFO  dajanka-U310-3 thread-0 [ run-0, test-171 ]: http://green-recipes.com/out/goog/structs/set.js -> 200 OK, 8917 bytes
+2015-01-18 21:11:56,649 INFO  dajanka-U310-3 thread-0 [ run-0, test-172 ]: http://green-recipes.com/out/goog/debug/debug.js -> 200 OK, 17485 bytes
+2015-01-18 21:11:56,722 INFO  dajanka-U310-3 thread-0 [ run-0, test-173 ]: http://green-recipes.com/out/goog/debug/logrecord.js -> 200 OK, 6711 bytes
+2015-01-18 21:11:56,796 INFO  dajanka-U310-3 thread-0 [ run-0, test-174 ]: http://green-recipes.com/out/goog/debug/logbuffer.js -> 200 OK, 4296 bytes
+2015-01-18 21:11:56,797 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 21 ms
+2015-01-18 21:11:56,919 INFO  dajanka-U310-3 thread-0 [ run-0, test-175 ]: http://green-recipes.com/out/goog/debug/logger.js -> 200 OK, 27092 bytes
+2015-01-18 21:11:56,920 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 22 ms
+2015-01-18 21:11:57,013 INFO  dajanka-U310-3 thread-0 [ run-0, test-176 ]: http://green-recipes.com/out/goog/log/log.js -> 200 OK, 6018 bytes
+2015-01-18 21:11:57,014 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 25 ms
+2015-01-18 21:11:57,114 INFO  dajanka-U310-3 thread-0 [ run-0, test-177 ]: http://green-recipes.com/out/goog/net/errorcode.js -> 200 OK, 3287 bytes
+2015-01-18 21:11:57,202 INFO  dajanka-U310-3 thread-0 [ run-0, test-178 ]: http://green-recipes.com/out/goog/net/eventtype.js -> 200 OK, 1044 bytes
+2015-01-18 21:11:57,272 INFO  dajanka-U310-3 thread-0 [ run-0, test-179 ]: http://green-recipes.com/out/goog/net/httpstatus.js -> 200 OK, 3020 bytes
+2015-01-18 21:11:57,338 INFO  dajanka-U310-3 thread-0 [ run-0, test-180 ]: http://green-recipes.com/out/goog/net/xhrlike.js -> 200 OK, 3077 bytes
+2015-01-18 21:11:57,408 INFO  dajanka-U310-3 thread-0 [ run-0, test-181 ]: http://green-recipes.com/out/goog/net/xmlhttpfactory.js -> 200 OK, 1903 bytes
+2015-01-18 21:11:57,472 INFO  dajanka-U310-3 thread-0 [ run-0, test-182 ]: http://green-recipes.com/out/goog/net/wrapperxmlhttpfactory.js -> 200 OK, 2171 bytes
+2015-01-18 21:11:57,543 INFO  dajanka-U310-3 thread-0 [ run-0, test-183 ]: http://green-recipes.com/out/goog/net/xmlhttp.js -> 200 OK, 7200 bytes
+2015-01-18 21:11:57,544 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 13 ms
+2015-01-18 21:11:57,664 INFO  dajanka-U310-3 thread-0 [ run-0, test-184 ]: http://green-recipes.com/out/goog/uri/utils.js -> 200 OK, 36215 bytes
+2015-01-18 21:11:57,775 INFO  dajanka-U310-3 thread-0 [ run-0, test-185 ]: http://green-recipes.com/out/goog/net/xhrio.js -> 200 OK, 39089 bytes
+2015-01-18 21:11:57,840 INFO  dajanka-U310-3 thread-0 [ run-0, test-186 ]: http://green-recipes.com/out/goog/history/eventtype.js -> 200 OK, 842 bytes
+2015-01-18 21:11:57,924 INFO  dajanka-U310-3 thread-0 [ run-0, test-187 ]: http://green-recipes.com/out/goog/events/eventhandler.js -> 200 OK, 17095 bytes
+2015-01-18 21:11:57,993 INFO  dajanka-U310-3 thread-0 [ run-0, test-188 ]: http://green-recipes.com/out/goog/history/event.js -> 200 OK, 1737 bytes
+2015-01-18 21:11:58,058 INFO  dajanka-U310-3 thread-0 [ run-0, test-189 ]: http://green-recipes.com/out/goog/labs/useragent/device.js -> 200 OK, 2377 bytes
+2015-01-18 21:11:58,137 INFO  dajanka-U310-3 thread-0 [ run-0, test-190 ]: http://green-recipes.com/out/goog/memoize/memoize.js -> 200 OK, 3805 bytes
+2015-01-18 21:11:58,244 INFO  dajanka-U310-3 thread-0 [ run-0, test-191 ]: http://green-recipes.com/out/goog/history/history.js -> 200 OK, 35776 bytes
+2015-01-18 21:11:58,244 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 15 ms
+2015-01-18 21:11:58,325 INFO  dajanka-U310-3 thread-0 [ run-0, test-192 ]: http://green-recipes.com/out/clojure/walk.js -> 200 OK, 3824 bytes
+2015-01-18 21:11:58,428 INFO  dajanka-U310-3 thread-0 [ run-0, test-193 ]: http://green-recipes.com/out/secretary/core.js -> 200 OK, 33502 bytes
+2015-01-18 21:11:58,501 INFO  dajanka-U310-3 thread-0 [ run-0, test-194 ]: http://green-recipes.com/out/zelene_recepty/thumbnail.js -> 200 OK, 8879 bytes
+2015-01-18 21:11:58,502 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 32 ms
+2015-01-18 21:11:58,603 INFO  dajanka-U310-3 thread-0 [ run-0, test-195 ]: http://green-recipes.com/images/thumbnails/jahodova-limonada.jpg -> 304 Not Modified, 0 bytes
+2015-01-18 21:11:58,604 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 48 ms
+2015-01-18 21:11:58,793 INFO  dajanka-U310-3 thread-0 [ run-0, test-196 ]: http://green-recipes.com/images/thumbnails/spinach-basil-pesto.jpg -> 200 OK, 52830 bytes
+2015-01-18 21:11:58,794 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 177 ms
+2015-01-18 21:11:59,080 INFO  dajanka-U310-3 thread-0 [ run-0, test-197 ]: http://green-recipes.com/images/up.png -> 200 OK, 36834 bytes
+2015-01-18 21:11:59,080 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 85 ms
+2015-01-18 21:11:59,296 INFO  dajanka-U310-3 thread-0 [ run-0, test-198 ]: http://green-recipes.com/images/birds_and_sign.png -> 200 OK, 54562 bytes
+2015-01-18 21:11:59,297 INFO  dajanka-U310-3 thread-0 [ run-0 ]: sleeping for 822 ms
+2015-01-18 21:12:00,268 INFO  dajanka-U310-3 thread-0 [ run-0, test-199 ]: http://green-recipes.com/images/chibi.png -> 200 OK, 38461 bytes
+2015-01-18 21:12:00,459 INFO  dajanka-U310-3 thread-0 [ run-0, test-201 ]: http://green-recipes.com/font/mathilde.otf -> 200 OK, 46324 bytes
+2015-01-18 21:12:00,548 INFO  dajanka-U310-3 thread-0 [ run-0, test-202 ]: http://green-recipes.com/images/green.jpg -> 200 OK, 21357 bytes
+2015-01-18 21:12:00,832 INFO  dajanka-U310-3 thread-0 [ run-0, test-301 ]: http://green-recipes.com/font/LiberationSans-Regular.ttf -> 200 OK, 133828 bytes
+2015-01-18 21:12:00,956 INFO  dajanka-U310-3 thread-0 [ run-0, test-302 ]: http://green-recipes.com/images/background_home.png -> 200 OK, 47155 bytes
+2015-01-18 21:12:01,219 INFO  dajanka-U310-3 thread-0 [ run-1, test-101 ]: http://green-recipes.com/ -> 200 OK, 7239 bytes
+2015-01-18 21:12:01,230 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 156 ms
+2015-01-18 21:12:01,519 INFO  dajanka-U310-3 thread-0 [ run-1, test-102 ]: http://green-recipes.com/style.css -> 200 OK, 26408 bytes
+2015-01-18 21:12:01,726 INFO  dajanka-U310-3 thread-0 [ run-1, test-103 ]: http://green-recipes.com/out/goog/base.js -> 200 OK, 61790 bytes
+2015-01-18 21:12:01,797 INFO  dajanka-U310-3 thread-0 [ run-1, test-104 ]: http://green-recipes.com/script/zelenerecepty_app.js -> 200 OK, 1404 bytes
+2015-01-18 21:12:01,861 INFO  dajanka-U310-3 thread-0 [ run-1, test-105 ]: http://green-recipes.com/images/facebook-link.png -> 200 OK, 723 bytes
+2015-01-18 21:12:01,933 INFO  dajanka-U310-3 thread-0 [ run-1, test-106 ]: http://green-recipes.com/images/sk-logo-mini.png -> 200 OK, 7786 bytes
+2015-01-18 21:12:01,934 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 42 ms
+2015-01-18 21:12:02,104 INFO  dajanka-U310-3 thread-0 [ run-1, test-107 ]: http://green-recipes.com/images/thumbnails/guacamole.jpg -> 200 OK, 32946 bytes
+2015-01-18 21:12:02,220 INFO  dajanka-U310-3 thread-0 [ run-1, test-108 ]: http://green-recipes.com/images/thumbnails/brokolicovy-salat.jpg -> 200 OK, 29428 bytes
+2015-01-18 21:12:02,314 INFO  dajanka-U310-3 thread-0 [ run-1, test-109 ]: http://green-recipes.com/images/thumbnails/sunflower-bread.jpg -> 200 OK, 23985 bytes
+2015-01-18 21:12:02,405 INFO  dajanka-U310-3 thread-0 [ run-1, test-110 ]: http://green-recipes.com/images/thumbnails/choco-mint.jpg -> 200 OK, 15732 bytes
+2015-01-18 21:12:02,406 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 21 ms
+2015-01-18 21:12:02,495 INFO  dajanka-U310-3 thread-0 [ run-1, test-111 ]: http://green-recipes.com/images/thumbnails/horcica.jpg -> 304 Not Modified, 0 bytes
+2015-01-18 21:12:02,649 INFO  dajanka-U310-3 thread-0 [ run-1, test-112 ]: http://green-recipes.com/images/thumbnails/pizza.jpg -> 200 OK, 38453 bytes
+2015-01-18 21:12:02,721 INFO  dajanka-U310-3 thread-0 [ run-1, test-113 ]: http://green-recipes.com/out/goog/deps.js -> 200 OK, 8528 bytes
+2015-01-18 21:12:02,722 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 70 ms
+2015-01-18 21:12:02,896 INFO  dajanka-U310-3 thread-0 [ run-1, test-114 ]: http://green-recipes.com/images/thumbnails/carob-cookies.jpg -> 200 OK, 31909 bytes
+2015-01-18 21:12:03,005 INFO  dajanka-U310-3 thread-0 [ run-1, test-115 ]: http://green-recipes.com/images/thumbnails/basic-cashew-cheese.jpg -> 200 OK, 27620 bytes
+2015-01-18 21:12:03,006 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 59 ms
+2015-01-18 21:12:03,148 INFO  dajanka-U310-3 thread-0 [ run-1, test-116 ]: http://green-recipes.com/images/thumbnails/tahini-dresing.jpg -> 200 OK, 17244 bytes
+2015-01-18 21:12:03,262 INFO  dajanka-U310-3 thread-0 [ run-1, test-117 ]: http://green-recipes.com/images/thumbnails/wrap.jpg -> 200 OK, 32767 bytes
+2015-01-18 21:12:03,334 INFO  dajanka-U310-3 thread-0 [ run-1, test-118 ]: http://green-recipes.com/out/goog/debug/error.js -> 200 OK, 1474 bytes
+2015-01-18 21:12:03,399 INFO  dajanka-U310-3 thread-0 [ run-1, test-119 ]: http://green-recipes.com/out/goog/dom/nodetype.js -> 200 OK, 1449 bytes
+2015-01-18 21:12:03,587 INFO  dajanka-U310-3 thread-0 [ run-1, test-120 ]: http://green-recipes.com/out/goog/string/string.js -> 200 OK, 47726 bytes
+2015-01-18 21:12:03,671 INFO  dajanka-U310-3 thread-0 [ run-1, test-121 ]: http://green-recipes.com/out/goog/asserts/asserts.js -> 200 OK, 12764 bytes
+2015-01-18 21:12:03,825 INFO  dajanka-U310-3 thread-0 [ run-1, test-122 ]: http://green-recipes.com/out/goog/array/array.js -> 200 OK, 56440 bytes
+2015-01-18 21:12:03,893 INFO  dajanka-U310-3 thread-0 [ run-1, test-123 ]: http://green-recipes.com/out/goog/labs/useragent/util.js -> 200 OK, 4603 bytes
+2015-01-18 21:12:03,966 INFO  dajanka-U310-3 thread-0 [ run-1, test-124 ]: http://green-recipes.com/out/goog/labs/useragent/browser.js -> 200 OK, 8535 bytes
+2015-01-18 21:12:03,967 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 30 ms
+2015-01-18 21:12:04,065 INFO  dajanka-U310-3 thread-0 [ run-1, test-125 ]: http://green-recipes.com/out/goog/labs/useragent/engine.js -> 200 OK, 3934 bytes
+2015-01-18 21:12:04,067 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 27 ms
+2015-01-18 21:12:04,178 INFO  dajanka-U310-3 thread-0 [ run-1, test-126 ]: http://green-recipes.com/out/goog/useragent/useragent.js -> 200 OK, 15676 bytes
+2015-01-18 21:12:04,246 INFO  dajanka-U310-3 thread-0 [ run-1, test-127 ]: http://green-recipes.com/out/goog/dom/browserfeature.js -> 200 OK, 2415 bytes
+2015-01-18 21:12:04,247 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 12 ms
+2015-01-18 21:12:04,334 INFO  dajanka-U310-3 thread-0 [ run-1, test-128 ]: http://green-recipes.com/out/goog/dom/tagname.js -> 200 OK, 3230 bytes
+2015-01-18 21:12:04,406 INFO  dajanka-U310-3 thread-0 [ run-1, test-129 ]: http://green-recipes.com/out/goog/functions/functions.js -> 200 OK, 8863 bytes
+2015-01-18 21:12:04,407 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 18 ms
+2015-01-18 21:12:04,504 INFO  dajanka-U310-3 thread-0 [ run-1, test-130 ]: http://green-recipes.com/out/goog/math/math.js -> 200 OK, 14311 bytes
+2015-01-18 21:12:04,580 INFO  dajanka-U310-3 thread-0 [ run-1, test-131 ]: http://green-recipes.com/out/goog/math/coordinate.js -> 200 OK, 7894 bytes
+2015-01-18 21:12:04,656 INFO  dajanka-U310-3 thread-0 [ run-1, test-132 ]: http://green-recipes.com/out/goog/math/size.js -> 200 OK, 5295 bytes
+2015-01-18 21:12:04,741 INFO  dajanka-U310-3 thread-0 [ run-1, test-133 ]: http://green-recipes.com/out/goog/object/object.js -> 200 OK, 18421 bytes
+2015-01-18 21:12:04,742 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 17 ms
+2015-01-18 21:12:05,016 INFO  dajanka-U310-3 thread-0 [ run-1, test-134 ]: http://green-recipes.com/out/goog/dom/dom.js -> 200 OK, 97336 bytes
+2015-01-18 21:12:06,569 INFO  dajanka-U310-3 thread-0 [ run-1, test-135 ]: http://green-recipes.com/out/cljs/core.js -> 200 OK, 808183 bytes
+2015-01-18 21:12:06,635 INFO  dajanka-U310-3 thread-0 [ run-1, test-136 ]: http://green-recipes.com/out/goog/string/stringbuffer.js -> 200 OK, 2692 bytes
+2015-01-18 21:12:06,636 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 12 ms
+2015-01-18 21:12:06,774 INFO  dajanka-U310-3 thread-0 [ run-1, test-137 ]: http://green-recipes.com/out/goog/iter/iter.js -> 200 OK, 44400 bytes
+2015-01-18 21:12:06,864 INFO  dajanka-U310-3 thread-0 [ run-1, test-138 ]: http://green-recipes.com/out/goog/structs/map.js -> 200 OK, 12837 bytes
+2015-01-18 21:12:06,865 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 36 ms
+2015-01-18 21:12:06,980 INFO  dajanka-U310-3 thread-0 [ run-1, test-139 ]: http://green-recipes.com/out/goog/dom/forms.js -> 200 OK, 11811 bytes
+2015-01-18 21:12:06,981 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 21 ms
+2015-01-18 21:12:07,076 INFO  dajanka-U310-3 thread-0 [ run-1, test-140 ]: http://green-recipes.com/out/goog/dom/classes.js -> 200 OK, 8403 bytes
+2015-01-18 21:12:07,148 INFO  dajanka-U310-3 thread-0 [ run-1, test-141 ]: http://green-recipes.com/out/goog/debug/entrypointregistry.js -> 200 OK, 5492 bytes
+2015-01-18 21:12:07,214 INFO  dajanka-U310-3 thread-0 [ run-1, test-142 ]: http://green-recipes.com/out/goog/events/browserfeature.js -> 200 OK, 2799 bytes
+2015-01-18 21:12:07,284 INFO  dajanka-U310-3 thread-0 [ run-1, test-143 ]: http://green-recipes.com/out/goog/disposable/idisposable.js -> 200 OK, 1445 bytes
+2015-01-18 21:12:07,285 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 18 ms
+2015-01-18 21:12:07,379 INFO  dajanka-U310-3 thread-0 [ run-1, test-144 ]: http://green-recipes.com/out/goog/disposable/disposable.js -> 200 OK, 9007 bytes
+2015-01-18 21:12:07,454 INFO  dajanka-U310-3 thread-0 [ run-1, test-145 ]: http://green-recipes.com/out/goog/events/eventid.js -> 200 OK, 1348 bytes
+2015-01-18 21:12:07,528 INFO  dajanka-U310-3 thread-0 [ run-1, test-146 ]: http://green-recipes.com/out/goog/events/event.js -> 200 OK, 4625 bytes
+2015-01-18 21:12:07,604 INFO  dajanka-U310-3 thread-0 [ run-1, test-147 ]: http://green-recipes.com/out/goog/events/eventtype.js -> 200 OK, 6937 bytes
+2015-01-18 21:12:07,672 INFO  dajanka-U310-3 thread-0 [ run-1, test-148 ]: http://green-recipes.com/out/goog/reflect/reflect.js -> 200 OK, 2202 bytes
+2015-01-18 21:12:07,754 INFO  dajanka-U310-3 thread-0 [ run-1, test-149 ]: http://green-recipes.com/out/goog/events/browserevent.js -> 200 OK, 11335 bytes
+2015-01-18 21:12:07,755 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 25 ms
+2015-01-18 21:12:07,859 INFO  dajanka-U310-3 thread-0 [ run-1, test-150 ]: http://green-recipes.com/out/goog/events/listenable.js -> 200 OK, 10789 bytes
+2015-01-18 21:12:07,936 INFO  dajanka-U310-3 thread-0 [ run-1, test-151 ]: http://green-recipes.com/out/goog/events/listener.js -> 200 OK, 3547 bytes
+2015-01-18 21:12:08,019 INFO  dajanka-U310-3 thread-0 [ run-1, test-152 ]: http://green-recipes.com/out/goog/events/listenermap.js -> 200 OK, 9725 bytes
+2015-01-18 21:12:08,131 INFO  dajanka-U310-3 thread-0 [ run-1, test-153 ]: http://green-recipes.com/out/goog/events/events.js -> 200 OK, 33596 bytes
+2015-01-18 21:12:08,131 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 22 ms
+2015-01-18 21:12:08,218 INFO  dajanka-U310-3 thread-0 [ run-1, test-154 ]: http://green-recipes.com/out/domina/support.js -> 200 OK, 764 bytes
+2015-01-18 21:12:08,284 INFO  dajanka-U310-3 thread-0 [ run-1, test-155 ]: http://green-recipes.com/out/goog/dom/vendor.js -> 200 OK, 2767 bytes
+2015-01-18 21:12:08,284 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 25 ms
+2015-01-18 21:12:08,389 INFO  dajanka-U310-3 thread-0 [ run-1, test-156 ]: http://green-recipes.com/out/goog/math/box.js -> 200 OK, 10890 bytes
+2015-01-18 21:12:08,499 INFO  dajanka-U310-3 thread-0 [ run-1, test-157 ]: http://green-recipes.com/out/goog/math/rect.js -> 200 OK, 13882 bytes
+2015-01-18 21:12:08,767 INFO  dajanka-U310-3 thread-0 [ run-1, test-158 ]: http://green-recipes.com/out/goog/style/style.js -> 200 OK, 77561 bytes
+2015-01-18 21:12:08,768 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 35 ms
+2015-01-18 21:12:08,937 INFO  dajanka-U310-3 thread-0 [ run-1, test-159 ]: http://green-recipes.com/out/clojure/string.js -> 200 OK, 7885 bytes
+2015-01-18 21:12:09,008 INFO  dajanka-U310-3 thread-0 [ run-1, test-160 ]: http://green-recipes.com/out/goog/dom/xml.js -> 200 OK, 6899 bytes
+2015-01-18 21:12:09,177 INFO  dajanka-U310-3 thread-0 [ run-1, test-161 ]: http://green-recipes.com/out/domina.js -> 200 OK, 57607 bytes
+2015-01-18 21:12:09,177 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 29 ms
+2015-01-18 21:12:09,356 INFO  dajanka-U310-3 thread-0 [ run-1, test-162 ]: http://green-recipes.com/out/goog/dojo/dom/query.js -> 200 OK, 53356 bytes
+2015-01-18 21:12:09,420 INFO  dajanka-U310-3 thread-0 [ run-1, test-163 ]: http://green-recipes.com/out/domina/css.js -> 200 OK, 3006 bytes
+2015-01-18 21:12:09,421 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 40 ms
+2015-01-18 21:12:09,556 INFO  dajanka-U310-3 thread-0 [ run-1, test-164 ]: http://green-recipes.com/out/domina/events.js -> 200 OK, 26839 bytes
+2015-01-18 21:12:09,621 INFO  dajanka-U310-3 thread-0 [ run-1, test-165 ]: http://green-recipes.com/out/zelene_recepty/smoothscroll.js -> 200 OK, 2628 bytes
+2015-01-18 21:12:09,698 INFO  dajanka-U310-3 thread-0 [ run-1, test-166 ]: http://green-recipes.com/out/goog/events/eventtarget.js -> 200 OK, 13142 bytes
+2015-01-18 21:12:09,771 INFO  dajanka-U310-3 thread-0 [ run-1, test-167 ]: http://green-recipes.com/out/goog/timer/timer.js -> 200 OK, 8197 bytes
+2015-01-18 21:12:09,849 INFO  dajanka-U310-3 thread-0 [ run-1, test-168 ]: http://green-recipes.com/out/goog/json/json.js -> 200 OK, 11619 bytes
+2015-01-18 21:12:09,931 INFO  dajanka-U310-3 thread-0 [ run-1, test-169 ]: http://green-recipes.com/out/goog/structs/structs.js -> 200 OK, 11417 bytes
+2015-01-18 21:12:09,994 INFO  dajanka-U310-3 thread-0 [ run-1, test-170 ]: http://green-recipes.com/out/goog/structs/collection.js -> 200 OK, 1412 bytes
+2015-01-18 21:12:09,995 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 18 ms
+2015-01-18 21:12:10,115 INFO  dajanka-U310-3 thread-0 [ run-1, test-171 ]: http://green-recipes.com/out/goog/structs/set.js -> 200 OK, 8917 bytes
+2015-01-18 21:12:10,205 INFO  dajanka-U310-3 thread-0 [ run-1, test-172 ]: http://green-recipes.com/out/goog/debug/debug.js -> 200 OK, 17485 bytes
+2015-01-18 21:12:10,286 INFO  dajanka-U310-3 thread-0 [ run-1, test-173 ]: http://green-recipes.com/out/goog/debug/logrecord.js -> 200 OK, 6711 bytes
+2015-01-18 21:12:10,352 INFO  dajanka-U310-3 thread-0 [ run-1, test-174 ]: http://green-recipes.com/out/goog/debug/logbuffer.js -> 200 OK, 4296 bytes
+2015-01-18 21:12:10,353 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 21 ms
+2015-01-18 21:12:10,468 INFO  dajanka-U310-3 thread-0 [ run-1, test-175 ]: http://green-recipes.com/out/goog/debug/logger.js -> 200 OK, 27092 bytes
+2015-01-18 21:12:10,469 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 22 ms
+2015-01-18 21:12:10,561 INFO  dajanka-U310-3 thread-0 [ run-1, test-176 ]: http://green-recipes.com/out/goog/log/log.js -> 200 OK, 6018 bytes
+2015-01-18 21:12:10,562 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 25 ms
+2015-01-18 21:12:10,652 INFO  dajanka-U310-3 thread-0 [ run-1, test-177 ]: http://green-recipes.com/out/goog/net/errorcode.js -> 200 OK, 3287 bytes
+2015-01-18 21:12:10,715 INFO  dajanka-U310-3 thread-0 [ run-1, test-178 ]: http://green-recipes.com/out/goog/net/eventtype.js -> 200 OK, 1044 bytes
+2015-01-18 21:12:10,781 INFO  dajanka-U310-3 thread-0 [ run-1, test-179 ]: http://green-recipes.com/out/goog/net/httpstatus.js -> 200 OK, 3020 bytes
+2015-01-18 21:12:10,860 INFO  dajanka-U310-3 thread-0 [ run-1, test-180 ]: http://green-recipes.com/out/goog/net/xhrlike.js -> 200 OK, 3077 bytes
+2015-01-18 21:12:10,958 INFO  dajanka-U310-3 thread-0 [ run-1, test-181 ]: http://green-recipes.com/out/goog/net/xmlhttpfactory.js -> 200 OK, 1903 bytes
+2015-01-18 21:12:11,022 INFO  dajanka-U310-3 thread-0 [ run-1, test-182 ]: http://green-recipes.com/out/goog/net/wrapperxmlhttpfactory.js -> 200 OK, 2171 bytes
+2015-01-18 21:12:11,092 INFO  dajanka-U310-3 thread-0 [ run-1, test-183 ]: http://green-recipes.com/out/goog/net/xmlhttp.js -> 200 OK, 7200 bytes
+2015-01-18 21:12:11,094 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 13 ms
+2015-01-18 21:12:11,214 INFO  dajanka-U310-3 thread-0 [ run-1, test-184 ]: http://green-recipes.com/out/goog/uri/utils.js -> 200 OK, 36215 bytes
+2015-01-18 21:12:11,326 INFO  dajanka-U310-3 thread-0 [ run-1, test-185 ]: http://green-recipes.com/out/goog/net/xhrio.js -> 200 OK, 39089 bytes
+2015-01-18 21:12:11,401 INFO  dajanka-U310-3 thread-0 [ run-1, test-186 ]: http://green-recipes.com/out/goog/history/eventtype.js -> 200 OK, 842 bytes
+2015-01-18 21:12:11,484 INFO  dajanka-U310-3 thread-0 [ run-1, test-187 ]: http://green-recipes.com/out/goog/events/eventhandler.js -> 200 OK, 17095 bytes
+2015-01-18 21:12:11,574 INFO  dajanka-U310-3 thread-0 [ run-1, test-188 ]: http://green-recipes.com/out/goog/history/event.js -> 200 OK, 1737 bytes
+2015-01-18 21:12:11,639 INFO  dajanka-U310-3 thread-0 [ run-1, test-189 ]: http://green-recipes.com/out/goog/labs/useragent/device.js -> 200 OK, 2377 bytes
+2015-01-18 21:12:11,705 INFO  dajanka-U310-3 thread-0 [ run-1, test-190 ]: http://green-recipes.com/out/goog/memoize/memoize.js -> 200 OK, 3805 bytes
+2015-01-18 21:12:11,812 INFO  dajanka-U310-3 thread-0 [ run-1, test-191 ]: http://green-recipes.com/out/goog/history/history.js -> 200 OK, 35776 bytes
+2015-01-18 21:12:11,813 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 15 ms
+2015-01-18 21:12:11,895 INFO  dajanka-U310-3 thread-0 [ run-1, test-192 ]: http://green-recipes.com/out/clojure/walk.js -> 200 OK, 3824 bytes
+2015-01-18 21:12:11,998 INFO  dajanka-U310-3 thread-0 [ run-1, test-193 ]: http://green-recipes.com/out/secretary/core.js -> 200 OK, 33502 bytes
+2015-01-18 21:12:12,070 INFO  dajanka-U310-3 thread-0 [ run-1, test-194 ]: http://green-recipes.com/out/zelene_recepty/thumbnail.js -> 200 OK, 8879 bytes
+2015-01-18 21:12:12,071 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 37 ms
+2015-01-18 21:12:12,182 INFO  dajanka-U310-3 thread-0 [ run-1, test-195 ]: http://green-recipes.com/images/thumbnails/jahodova-limonada.jpg -> 304 Not Modified, 0 bytes
+2015-01-18 21:12:12,183 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 47 ms
+2015-01-18 21:12:12,365 INFO  dajanka-U310-3 thread-0 [ run-1, test-196 ]: http://green-recipes.com/images/thumbnails/spinach-basil-pesto.jpg -> 200 OK, 52830 bytes
+2015-01-18 21:12:12,366 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 191 ms
+2015-01-18 21:12:12,666 INFO  dajanka-U310-3 thread-0 [ run-1, test-197 ]: http://green-recipes.com/images/up.png -> 200 OK, 36834 bytes
+2015-01-18 21:12:12,667 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 92 ms
+2015-01-18 21:12:12,897 INFO  dajanka-U310-3 thread-0 [ run-1, test-198 ]: http://green-recipes.com/images/birds_and_sign.png -> 200 OK, 54562 bytes
+2015-01-18 21:12:12,898 INFO  dajanka-U310-3 thread-0 [ run-1 ]: sleeping for 748 ms
+2015-01-18 21:12:13,815 INFO  dajanka-U310-3 thread-0 [ run-1, test-199 ]: http://green-recipes.com/images/chibi.png -> 200 OK, 38461 bytes
+2015-01-18 21:12:13,950 INFO  dajanka-U310-3 thread-0 [ run-1, test-201 ]: http://green-recipes.com/font/mathilde.otf -> 200 OK, 46324 bytes
+2015-01-18 21:12:14,037 INFO  dajanka-U310-3 thread-0 [ run-1, test-202 ]: http://green-recipes.com/images/green.jpg -> 200 OK, 21357 bytes
+2015-01-18 21:12:14,384 INFO  dajanka-U310-3 thread-0 [ run-1, test-301 ]: http://green-recipes.com/font/LiberationSans-Regular.ttf -> 200 OK, 133828 bytes
+2015-01-18 21:12:14,509 INFO  dajanka-U310-3 thread-0 [ run-1, test-302 ]: http://green-recipes.com/images/background_home.png -> 200 OK, 47155 bytes
+2015-01-18 21:12:14,762 INFO  dajanka-U310-3 thread-0 [ run-2, test-101 ]: http://green-recipes.com/ -> 200 OK, 7239 bytes
+2015-01-18 21:12:14,767 INFO  dajanka-U310-3 thread-0 [ run-2 ]: sleeping for 179 ms
+2015-01-18 21:12:15,082 INFO  dajanka-U310-3 thread-0 [ run-2, test-102 ]: http://green-recipes.com/style.css -> 200 OK, 26408 bytes
+2015-01-18 21:12:15,279 INFO  dajanka-U310-3 thread-0 [ run-2, test-103 ]: http://green-recipes.com/out/goog/base.js -> 200 OK, 61790 bytes
+2015-01-18 21:12:15,342 INFO  dajanka-U310-3 thread-0 [ run-2, test-104 ]: http://green-recipes.com/script/zelenerecepty_app.js -> 200 OK, 1404 bytes
+2015-01-18 21:12:15,404 INFO  dajanka-U310-3 thread-0 [ run-2, test-105 ]: http://green-recipes.com/images/facebook-link.png -> 200 OK, 723 bytes
+2015-01-18 21:12:15,473 INFO  dajanka-U310-3 thread-0 [ run-2, test-106 ]: http://green-recipes.com/images/sk-logo-mini.png -> 200 OK, 7786 bytes
+2015-01-18 21:12:15,474 INFO  dajanka-U310-3 thread-0 [ run-2 ]: sleeping for 45 ms
+2015-01-18 21:12:15,642 INFO  dajanka-U310-3 thread-0 [ run-2, test-107 ]: http://green-recipes.com/images/thumbnails/guacamole.jpg -> 200 OK, 32946 bytes
+2015-01-18 21:12:15,748 INFO  dajanka-U310-3 thread-0 [ run-2, test-108 ]: http://green-recipes.com/images/thumbnails/brokolicovy-salat.jpg -> 200 OK, 29428 bytes
+2015-01-18 21:12:15,841 INFO  dajanka-U310-3 thread-0 [ run-2, test-109 ]: http://green-recipes.com/images/thumbnails/sunflower-bread.jpg -> 200 OK, 23985 bytes
+2015-01-18 21:12:15,932 INFO  dajanka-U310-3 thread-0 [ run-2, test-110 ]: http://green-recipes.com/images/thumbnails/choco-mint.jpg -> 200 OK, 15732 bytes
+2015-01-18 21:12:15,933 INFO  dajanka-U310-3 thread-0 [ run-2 ]: sleeping for 20 ms
+2015-01-18 21:12:16,031 INFO  dajanka-U310-3 thread-0 [ run-2, test-111 ]: http://green-recipes.com/images/thumbnails/horcica.jpg -> 304 Not Modified, 0 bytes
+2015-01-18 21:12:16,206 INFO  dajanka-U310-3 thread-0 [ run-2, test-112 ]: http://green-recipes.com/images/thumbnails/pizza.jpg -> 200 OK, 38453 bytes
+2015-01-18 21:12:16,277 INFO  dajanka-U310-3 thread-0 [ run-2, test-113 ]: http://green-recipes.com/out/goog/deps.js -> 200 OK, 8528 bytes
+2015-01-18 21:12:16,278 INFO  dajanka-U310-3 thread-0 [ run-2 ]: sleeping for 69 ms
+2015-01-18 21:12:16,481 INFO  dajanka-U310-3 thread-0 [ run-2, test-114 ]: http://green-recipes.com/images/thumbnails/carob-cookies.jpg -> 200 OK, 31909 bytes
+2015-01-18 21:12:16,586 INFO  dajanka-U310-3 thread-0 [ run-2, test-115 ]: http://green-recipes.com/images/thumbnails/basic-cashew-cheese.jpg -> 200 OK, 27620 bytes
+2015-01-18 21:12:16,587 INFO  dajanka-U310-3 thread-0 [ run-2 ]: sleeping for 65 ms
+2015-01-18 21:12:16,734 INFO  dajanka-U310-3 thread-0 [ run-2, test-116 ]: http://green-recipes.com/images/thumbnails/tahini-dresing.jpg -> 200 OK, 17244 bytes
+2015-01-18 21:12:16,846 INFO  dajanka-U310-3 thread-0 [ run-2, test-117 ]: http://green-recipes.com/images/thumbnails/wrap.jpg -> 200 OK, 32767 bytes
+2015-01-18 21:12:16,909 INFO  dajanka-U310-3 thread-0 [ run-2, test-118 ]: http://green-recipes.com/out/goog/debug/error.js -> 200 OK, 1474 bytes
+2015-01-18 21:12:16,991 INFO  dajanka-U310-3 thread-0 [ run-2, test-119 ]: http://green-recipes.com/out/goog/dom/nodetype.js -> 200 OK, 1449 bytes
+2015-01-18 21:12:17,126 INFO  dajanka-U310-3 thread-0 [ run-2, test-120 ]: http://green-recipes.com/out/goog/string/string.js -> 200 OK, 47726 bytes
+2015-01-18 21:12:17,204 INFO  dajanka-U310-3 thread-0 [ run-2, test-121 ]: http://green-recipes.com/out/goog/asserts/asserts.js -> 200 OK, 12764 bytes
+2015-01-18 21:12:17,374 INFO  dajanka-U310-3 thread-0 [ run-2, test-122 ]: http://green-recipes.com/out/goog/array/array.js -> 200 OK, 56440 bytes
+2015-01-18 21:12:17,440 INFO  dajanka-U310-3 thread-0 [ run-2, test-123 ]: http://green-recipes.com/out/goog/labs/useragent/util.js -> 200 OK, 4603 bytes
+2015-01-18 21:12:17,530 INFO  dajanka-U310-3 thread-0 [ run-2, test-124 ]: http://green-recipes.com/out/goog/labs/useragent/browser.js -> 200 OK, 8535 bytes
+2015-01-18 21:12:17,531 INFO  dajanka-U310-3 thread-0 [ run-2 ]: sleeping for 35 ms
+2015-01-18 21:12:17,632 INFO  dajanka-U310-3 thread-0 [ run-2, test-125 ]: http://green-recipes.com/out/goog/labs/useragent/engine.js -> 200 OK, 3934 bytes
+2015-01-18 21:12:17,633 INFO  dajanka-U310-3 thread-0 [ run-2 ]: sleeping for 27 ms
+2015-01-18 21:12:17,740 INFO  dajanka-U310-3 thread-0 [ run-2, test-126 ]: http://green-recipes.com/out/goog/useragent/useragent.js -> 200 OK, 15676 bytes
+2015-01-18 21:12:17,803 INFO  dajanka-U310-3 thread-0 [ run-2, test-127 ]: http://green-recipes.com/out/goog/dom/browserfeature.js -> 200 OK, 2415 bytes
+2015-01-18 21:12:17,804 INFO  dajanka-U310-3 thread-0 [ run-2 ]: sleeping for 12 ms
+2015-01-18 21:12:17,881 INFO  dajanka-U310-3 thread-0 [ run-2, test-128 ]: http://green-recipes.com/out/goog/dom/tagname.js -> 200 OK, 3230 bytes
+2015-01-18 21:12:17,976 INFO  dajanka-U310-3 thread-0 [ run-2, test-129 ]: http://green-recipes.com/out/goog/functions/functions.js -> 200 OK, 8863 bytes
+2015-01-18 21:12:17,977 INFO  dajanka-U310-3 thread-0 [ run-2 ]: sleeping for 17 ms
+2015-01-18 21:12:18,103 INFO  dajanka-U310-3 thread-0 [ run-2, test-130 ]: http://green-recipes.com/out/goog/math/math.js -> 200 OK, 14311 bytes
+2015-01-18 21:12:18,190 INFO  dajanka-U310-3 thread-0 [ run-2, test-131 ]: http://green-recipes.com/out/goog/math/coordinate.js -> 200 OK, 7894 bytes
+2015-01-18 21:12:18,270 INFO  dajanka-U310-3 thread-0 [ run-2, test-132 ]: http://green-recipes.com/out/goog/math/size.js -> 200 OK, 5295 bytes
+2015-01-18 21:12:18,354 INFO  dajanka-U310-3 thread-0 [ run-2, test-133 ]: http://green-recipes.com/out/goog/object/object.js -> 200 OK, 18421 bytes
+2015-01-18 21:12:18,355 INFO  dajanka-U310-3 thread-0 [ run-2 ]: sleeping for 17 ms
+2015-01-18 21:12:18,669 INFO  dajanka-U310-3 thread-0 [ run-2, test-134 ]: http://green-recipes.com/out/goog/dom/dom.js -> 200 OK, 97336 bytes
+2015-01-18 21:12:20,444 INFO  dajanka-U310-3 thread-0 [ run-2, test-135 ]: http://green-recipes.com/out/cljs/core.js -> 200 OK, 808183 bytes
+2015-01-18 21:12:20,508 INFO  dajanka-U310-3 thread-0 [ run-2, test-136 ]: http://green-recipes.com/out/goog/string/stringbuffer.js -> 200 OK, 2692 bytes
+2015-01-18 21:12:20,509 INFO  dajanka-U310-3 thread-0 [ run-2 ]: sleeping for 12 ms
+2015-01-18 21:12:20,657 INFO  dajanka-U310-3 thread-0 [ run-2, test-137 ]: http://green-recipes.com/out/goog/iter/iter.js -> 200 OK, 44400 bytes
+2015-01-18 21:12:20,779 INFO  dajanka-U310-3 thread-0 [ run-2, test-138 ]: http://green-recipes.com/out/goog/structs/map.js -> 200 OK, 12837 bytes
+2015-01-18 21:12:20,780 INFO  dajanka-U310-3 thread-0 [ run-2 ]: sleeping for 39 ms
+2015-01-18 21:12:20,898 INFO  dajanka-U310-3 thread-0 [ run-2, test-139 ]: http://green-recipes.com/out/goog/dom/forms.js -> 200 OK, 11811 bytes
+2015-01-18 21:12:20,899 INFO  dajanka-U310-3 thread-0 [ run-2 ]: sleeping for 20 ms
+2015-01-18 21:12:20,991 INFO  dajanka-U310-3 thread-0 [ run-2, test-140 ]: http://green-recipes.com/out/goog/dom/classes.js -> 200 OK, 8403 bytes
+2015-01-18 21:12:21,068 INFO  dajanka-U310-3 thread-0 [ run-2, test-141 ]: http://green-recipes.com/out/goog/debug/entrypointregistry.js -> 200 OK, 5492 bytes
+2015-01-18 21:12:21,138 INFO  dajanka-U310-3 thread-0 [ run-2, test-142 ]: http://green-recipes.com/out/goog/events/browserfeature.js -> 200 OK, 2799 bytes
+2015-01-18 21:12:21,210 INFO  dajanka-U310-3 thread-0 [ run-2, test-143 ]: http://green-recipes.com/out/goog/disposable/idisposable.js -> 200 OK, 1445 bytes
+2015-01-18 21:12:21,211 INFO  dajanka-U310-3 thread-0 [ run-2 ]: sleeping for 18 ms
+2015-01-18 21:12:21,266 INFO  dajanka-U310-3 : received a stop message
+2015-01-18 21:12:21,312 INFO  dajanka-U310-3 thread-0 [ run-2, test-144 ]: http://green-recipes.com/out/goog/disposable/disposable.js -> 200 OK, 9007 bytes
+2015-01-18 21:12:21,312 INFO  dajanka-U310-3 thread-0 [ run-2 ]: shut down
+2015-01-18 21:12:21,313 INFO  dajanka-U310-3 thread-0: finished 2 runs
+2015-01-18 21:12:21,319 INFO  dajanka-U310-3 : elapsed time is 49242 ms
+2015-01-18 21:12:21,319 INFO  dajanka-U310-3 : Final statistics for this process:
+2015-01-18 21:12:21,357 INFO  dajanka-U310-3 : 
+             Tests        Errors       Mean Test    Test Time    TPS          Mean         Response     Response     Mean time to Mean time to Mean time to 
+                                       Time (ms)    Standard                  response     bytes per    errors       resolve host establish    first byte   
+                                                    Deviation                 length       second                                 connection                
+                                                    (ms)                                                                                                    
+
+(Test 100    2            0            20478.50     7667.50      0.04         0.00         0.00         0            -            -            0.00)         "Page 1"
+Test 101     3            0            5245.67      7057.87      0.06         7239.00      441.03       0            5004.67      5065.67      5234.33       "GET /"
+Test 102     3            0            134.67       1.70         0.06         26408.00     1608.87      0            -            -            64.67         "GET style.css"
+Test 103     3            0            204.00       4.32         0.06         61790.00     3764.47      0            -            -            77.67         "GET base.js"
+Test 104     3            0            67.00        3.56         0.06         1404.00      85.54        0            -            -            66.33         "GET zelenerecepty_app.js"
+Test 105     3            0            63.33        2.62         0.06         723.00       44.05        0            -            -            62.00         "GET facebook-link.png"
+Test 106     3            0            70.33        0.94         0.06         7786.00      474.35       0            -            -            62.33         "GET sk-logo-mini.png"
+Test 107     3            0            123.00       2.83         0.06         32946.00     2007.19      0            -            -            65.67         "GET guacamole.jpg"
+Test 108     3            0            106.67       6.24         0.06         29428.00     1792.86      0            -            -            69.00         "GET brokolicovy-salat.jpg"
+Test 109     3            0            93.00        0.82         0.06         23985.00     1461.25      0            -            -            63.67         "GET sunflower-bread.jpg"
+Test 110     3            0            89.67        0.47         0.06         15732.00     958.45       0            -            -            71.00         "GET choco-mint.jpg"
+Test 111     3            0            70.00        4.97         0.06         0.00         0.00         0            -            -            68.67         "GET horcica.jpg"
+Test 112     3            0            152.00       18.38        0.06         38453.00     2342.70      0            -            -            65.33         "GET pizza.jpg"
+Test 113     3            0            81.33        15.33        0.06         8528.00      519.56       0            -            -            72.33         "GET deps.js"
+Test 114     3            0            113.33       14.61        0.06         31909.00     1944.01      0            -            -            73.67         "GET carob-cookies.jpg"
+Test 115     3            0            110.00       5.89         0.06         27620.00     1682.71      0            -            -            76.33         "GET basic-cashew-cheese.jpg"
+Test 116     3            0            84.33        2.62         0.06         17244.00     1050.57      0            -            -            64.00         "GET tahini-dresing.jpg"
+Test 117     3            0            111.67       0.94         0.06         32767.00     1996.28      0            -            -            71.33         "GET wrap.jpg"
+Test 118     3            0            66.67        3.68         0.06         1474.00      89.80        0            -            -            65.33         "GET error.js"
+Test 119     3            0            74.00        6.68         0.06         1449.00      88.28        0            -            -            72.67         "GET nodetype.js"
+Test 120     3            0            166.00       22.99        0.06         47726.00     2907.64      0            -            -            62.67         "GET string.js"
+Test 121     3            0            79.33        2.62         0.06         12764.00     777.63       0            -            -            64.33         "GET asserts.js"
+Test 122     3            0            166.67       10.87        0.06         56440.00     3438.53      0            -            -            63.67         "GET array.js"
+Test 123     3            0            66.00        0.82         0.06         4603.00      280.43       0            -            -            61.67         "GET util.js"
+Test 124     3            0            77.67        8.01         0.06         8535.00      519.98       0            -            -            68.00         "GET browser.js"
+Test 125     3            0            68.33        2.62         0.06         3934.00      239.67       0            -            -            64.33         "GET engine.js"
+Test 126     3            0            81.67        2.05         0.06         15676.00     955.04       0            -            -            62.33         "GET useragent.js"
+Test 127     3            0            65.00        2.16         0.06         2415.00      147.13       0            -            -            63.00         "GET browserfeature.js"
+Test 128     3            0            67.67        4.50         0.06         3230.00      196.78       0            -            -            66.00         "GET tagname.js"
+Test 129     3            0            80.00        9.93         0.06         8863.00      539.97       0            -            -            69.67         "GET functions.js"
+Test 130     3            0            89.67        13.70        0.06         14311.00     871.88       0            -            -            73.00         "GET math.js"
+Test 131     3            0            77.00        6.68         0.06         7894.00      480.93       0            -            -            68.33         "GET coordinate.js"
+Test 132     3            0            74.33        4.11         0.06         5295.00      322.59       0            -            -            68.67         "GET size.js"
+Test 133     3            0            85.67        3.09         0.06         18421.00     1122.27      0            -            -            64.33         "GET object.js"
+Test 134     3            0            290.67       26.40        0.06         97336.00     5930.06      0            -            -            77.33         "GET dom.js"
+Test 135     3            0            1737.33      138.80       0.06         808183.00    49237.42     0            -            -            63.67         "GET core.js"
+Test 136     3            0            66.00        2.94         0.06         2692.00      164.01       0            -            -            65.00         "GET stringbuffer.js"
+Test 137     3            0            127.33       5.56         0.06         44400.00     2705.01      0            -            -            63.67         "GET iter.js"
+Test 138     3            0            98.33        16.05        0.06         12837.00     782.08       0            -            -            83.33         "GET map.js"
+Test 139     3            0            94.00        21.92        0.06         11811.00     719.57       0            -            -            80.00         "GET forms.js"
+Test 140     3            0            77.67        7.32         0.06         8403.00      511.94       0            -            -            68.33         "GET classes.js"
+Test 141     3            0            79.67        9.74         0.06         5492.00      334.59       0            -            -            77.00         "GET entrypointregistry.js"
+Test 142     3            0            68.00        1.41         0.06         2799.00      170.53       0            -            -            65.67         "GET browserfeature.js"
+Test 143     3            0            68.00        2.16         0.06         1445.00      88.03        0            -            -            67.33         "GET idisposable.js"
+Test 144     3            0            77.33        3.30         0.06         9007.00      548.74       0            -            -            67.00         "GET disposable.js"
+Test 145     2            0            69.00        5.00         0.04         1348.00      54.75        0            -            -            69.00         "GET eventid.js"
+Test 146     2            0            70.50        2.50         0.04         4625.00      187.85       0            -            -            66.00         "GET event.js"
+Test 147     2            0            72.00        2.00         0.04         6937.00      281.75       0            -            -            64.50         "GET eventtype.js"
+Test 148     2            0            64.50        1.50         0.04         2202.00      89.44        0            -            -            63.50         "GET reflect.js"
+Test 149     2            0            76.00        2.00         0.04         11335.00     460.38       0            -            -            63.50         "GET browserevent.js"
+Test 150     2            0            76.50        1.50         0.04         10789.00     438.20       0            -            -            63.50         "GET listenable.js"
+Test 151     2            0            70.50        5.50         0.04         3547.00      144.06       0            -            -            68.00         "GET listener.js"
+Test 152     2            0            79.00        2.00         0.04         9725.00      394.99       0            -            -            71.50         "GET listenermap.js"
+Test 153     2            0            160.50       49.50        0.04         33596.00     1364.53      0            -            -            119.00        "GET events.js"
+Test 154     2            0            63.50        0.50         0.04         764.00       31.03        0            -            -            63.00         "GET support.js"
+Test 155     2            0            65.50        0.50         0.04         2767.00      112.38       0            -            -            63.50         "GET vendor.js"
+Test 156     2            0            78.00        2.00         0.04         10890.00     442.31       0            -            -            66.00         "GET box.js"
+Test 157     2            0            94.50        14.50        0.04         13882.00     563.83       0            -            -            82.50         "GET rect.js"
+Test 158     2            0            227.00       40.00        0.04         77561.00     3150.20      0            -            -            84.00         "GET style.js"
+Test 159     2            0            102.00       31.00        0.04         7885.00      320.26       0            -            -            94.00         "GET string.js"
+Test 160     2            0            70.50        0.50         0.04         6899.00      280.21       0            -            -            62.50         "GET xml.js"
+Test 161     2            0            159.50       8.50         0.04         57607.00     2339.75      0            -            -            64.00         "GET domina.js"
+Test 162     2            0            153.50       4.50         0.04         53356.00     2167.09      0            -            -            67.50         "GET query.js"
+Test 163     2            0            64.50        1.50         0.04         3006.00      122.09       0            -            -            61.50         "GET css.js"
+Test 164     2            0            95.00        0.00         0.04         26839.00     1090.09      0            -            -            62.50         "GET events.js"
+Test 165     2            0            66.00        1.00         0.04         2628.00      106.74       0            -            -            63.00         "GET smoothscroll.js"
+Test 166     2            0            77.00        1.00         0.04         13142.00     533.77       0            -            -            62.00         "GET eventtarget.js"
+Test 167     2            0            75.00        3.00         0.04         8197.00      332.93       0            -            -            65.50         "GET timer.js"
+Test 168     2            0            77.00        0.00         0.04         11619.00     471.91       0            -            -            64.00         "GET json.js"
+Test 169     2            0            77.50        3.50         0.04         11417.00     463.71       0            -            -            65.00         "GET structs.js"
+Test 170     2            0            63.00        1.00         0.04         1412.00      57.35        0            -            -            63.00         "GET collection.js"
+Test 171     2            0            90.00        11.00        0.04         8917.00      362.17       0            -            -            79.50         "GET set.js"
+Test 172     2            0            87.00        3.00         0.04         17485.00     710.17       0            -            -            65.50         "GET debug.js"
+Test 173     2            0            76.00        5.00         0.04         6711.00      272.57       0            -            -            69.00         "GET logrecord.js"
+Test 174     2            0            69.50        4.50         0.04         4296.00      174.49       0            -            -            65.00         "GET logbuffer.js"
+Test 175     2            0            97.50        3.50         0.04         27092.00     1100.36      0            -            -            64.00         "GET logger.js"
+Test 176     2            0            69.50        0.50         0.04         6018.00      244.43       0            -            -            64.50         "GET log.js"
+Test 177     2            0            69.00        5.00         0.04         3287.00      133.50       0            -            -            67.50         "GET errorcode.js"
+Test 178     2            0            74.50        12.50        0.04         1044.00      42.40        0            -            -            73.50         "GET eventtype.js"
+Test 179     2            0            68.00        2.00         0.04         3020.00      122.66       0            -            -            65.00         "GET httpstatus.js"
+Test 180     2            0            72.50        6.50         0.04         3077.00      124.97       0            -            -            69.00         "GET xhrlike.js"
+Test 181     2            0            83.00        14.00        0.04         1903.00      77.29        0            -            -            81.50         "GET xmlhttpfactory.js"
+Test 182     2            0            63.00        0.00         0.04         2171.00      88.18        0            -            -            62.00         "GET wrapperxmlhttpfactory.js"
+Test 183     2            0            69.00        0.00         0.04         7200.00      292.43       0            -            -            62.00         "GET xmlhttp.js"
+Test 184     2            0            106.00       0.00         0.04         36215.00     1470.90      0            -            -            63.50         "GET utils.js"
+Test 185     2            0            110.00       1.00         0.04         39089.00     1587.63      0            -            -            62.50         "GET xhrio.js"
+Test 186     2            0            69.50        5.50         0.04         842.00       34.20        0            -            -            68.50         "GET eventtype.js"
+Test 187     2            0            82.50        0.50         0.04         17095.00     694.33       0            -            -            63.00         "GET eventhandler.js"
+Test 188     2            0            79.00        10.00        0.04         1737.00      70.55        0            -            -            77.50         "GET event.js"
+Test 189     2            0            64.00        0.00         0.04         2377.00      96.54        0            -            -            62.00         "GET device.js"
+Test 190     2            0            71.50        6.50         0.04         3805.00      154.54       0            -            -            68.50         "GET memoize.js"
+Test 191     2            0            106.50       0.50         0.04         35776.00     1453.07      0            -            -            62.00         "GET history.js"
+Test 192     2            0            65.50        0.50         0.04         3824.00      155.31       0            -            -            61.50         "GET walk.js"
+Test 193     2            0            102.00       0.00         0.04         33502.00     1360.71      0            -            -            62.50         "GET core.js"
+Test 194     2            0            71.50        0.50         0.04         8879.00      360.63       0            -            -            62.50         "GET thumbnail.js"
+Test 195     2            0            70.50        2.50         0.04         0.00         0.00         0            -            -            69.50         "GET jahodova-limonada.jpg"
+Test 196     2            0            138.00       3.00         0.04         52830.00     2145.73      0            -            -            65.00         "GET spinach-basil-pesto.jpg"
+Test 197     2            0            108.00       0.00         0.04         36834.00     1496.04      0            -            -            62.50         "GET up.png"
+Test 198     2            0            134.00       4.00         0.04         54562.00     2216.08      0            -            -            63.00         "GET birds_and_sign.png"
+Test 199     2            0            158.50       10.50        0.04         38461.00     1562.12      0            -            -            65.50         "GET chibi.png"
+(Test 200    2            0            248.50       28.50        0.04         0.00         0.00         0            -            -            0.00)         "Page 2"
+Test 201     2            0            161.00       28.00        0.04         46324.00     1881.48      0            -            -            84.50         "GET mathilde.otf"
+Test 202     2            0            87.00        1.00         0.04         21357.00     867.43       0            -            -            62.00         "GET green.jpg"
+(Test 300    2            0            437.50       31.50        0.04         0.00         0.00         0            -            -            0.00)         "Page 3"
+Test 301     2            0            313.50       31.50        0.04         133828.00    5435.52      0            -            -            70.50         "GET LiberationSans-Regular.ttf"
+Test 302     2            0            123.50       0.50         0.04         47155.00     1915.23      0            -            -            65.50         "GET background_home.png"
+
+Totals       250          0            177.54       971.53       5.08         27782.27     141049.65    0            5004.67      5065.67      130.07       
+             (6)          (0)                                                                                                                               
+
+  Tests resulting in error only contribute to the Errors column.          
+  Statistics for individual tests can be found in the data file, including
+  (possibly incomplete) statistics for erroneous tests. Composite tests   
+  are marked with () and not included in the totals.                      
+
